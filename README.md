@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%98%D0%BB%D1%8C%D1%8F+%F0%9F%91%8B;Maintainer+%C2%B7+DataSafeS3;Self-hosted+S3-compatible+storage" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Ilya+%F0%9F%91%8B;Maintainer+%C2%B7+DataSafeS3;Self-hosted+S3-compatible+storage" alt="Typing intro"/>
 
 <br/><br/>
 
@@ -22,10 +22,10 @@
 
 ---
 
-### О проекте
+### About
 
-**DataSafeS3** — платформа локального хранения данных под вашим контролем: S3 API, web-консоль, LDAP/OIDC, квоты, аудит, Prometheus/Grafana.  
-Open source **Apache-2.0** Community Edition до v2.0.0.
+**DataSafeS3** is a self-hosted data storage platform you control: S3 API, web console, LDAP/OIDC, quotas, audit, Prometheus/Grafana.  
+Open source **Apache-2.0** Community Edition through v2.0.0.
 
 ```
 S3 API  ·  Web console  ·  LDAP/OIDC  ·  Tenants  ·  Audit  ·  Prometheus  ·  Docker  ·  Helm
