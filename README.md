@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-**[DataSafeS3](https://github.com/DirektorBani/DataSafeS3)** · **[Habr](https://habr.com/ru/users/DirektorBani/posts/)** · **[Email](mailto:trachyk.i@gmail.com)**
+**[DataSafeS3](https://github.com/DirektorBani/DataSafeS3)** · **[Habr](https://habr.com/ru/users/ToomIm/articles/)** · **[Email](mailto:trachyk.i@gmail.com)**
 
 </div>
 
